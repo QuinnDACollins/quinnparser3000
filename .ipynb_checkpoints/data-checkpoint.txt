@@ -1,5 +1,7 @@
+!playlist
+https://music.apple.com/us/playlist/quinn-top-100-2021/pl.u-4JomajBFaeKMDl4
 !music
 https://soundcloud.com/quinndaco/somber-work-on-side-chain-pad-and-kick
 https://open.spotify.com/track/1pxzbdQXHELLA3HS4iKLe1?si=4e863c67d01c481e
 !projects
-!personal
+!
